@@ -34,7 +34,7 @@
         "uninstall": {
             "checkbox": "Odebrat prefix: {{prefix}}{{newLine}}Upozornění: tato akce je nevratná a také odstraní nezálohované soubory uložení.",
             "message": "Chcete odinstalovat tuto hru?",
-            "settingcheckbox": "Erase settings and remove log{{newLine}}Note: This can't be undone. Any modified settings will be forgotten and log will be deleted.",
+            "settingcheckbox": "Vymazat nastavení a odstranit protokol{{newLine}}Poznámka: Tento krok nelze vrátit zpět. Veškerá změněná nastavení budou zapomenuta a protokol bude odstraněn.",
             "title": "Odinstalovat"
         },
         "update": {
