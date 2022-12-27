@@ -34,7 +34,7 @@
         "uninstall": {
             "checkbox": "{{newLine}}Remover prefixo: {{prefix}}{{newLine}}Obs.: Isso não pode ser desfeito e também vai remover jogos salvos sem backup.",
             "message": "Deseja desinstalar este jogo?",
-            "settingcheckbox": "Erase settings and remove log{{newLine}}Note: This can't be undone. Any modified settings will be forgotten and log will be deleted.",
+            "settingcheckbox": "Apagar configurações e remover logs{{newLine}}Obs: Isto não pode ser desfeito. Qualquer configuração modificada será esquecida e o log será deletado.",
             "title": "Desinstalar"
         },
         "update": {
